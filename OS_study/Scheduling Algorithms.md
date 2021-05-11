@@ -51,9 +51,9 @@
 
 - 그럼 우선순위가 어떤 것이냐
 
-  - SJF의 특이 case인데, SJF에서는 도착시간과 CPU - burst가 크면 클수록 우선순위를 높게 줬었으면
+  - SJF의 특이 case인데, SJF에서는 도착시간과 CPU - burst가 크면 작을수록 우선순위를 높게 줬었으면
 
-    Priority-base는 CPU-Burst만 가지고
+    Priority-base는 CPU-Burst만 가지고 
 
 
 

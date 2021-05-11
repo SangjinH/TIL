@@ -75,7 +75,7 @@
 
 *문제는 Dispatcher가 빨라야한다..!*
 
-![image-20210420213945063](C:\Users\Sang Jin Han\AppData\Roaming\Typora\typora-user-images\image-20210420213945063.png)
+<img src="C:\Users\Sang Jin Han\AppData\Roaming\Typora\typora-user-images\image-20210420213945063.png" alt="image-20210420213945063"  />
 
 - 이러한 일련의 과정을 거치는데 이 역할을 Dispatcher 가 함
 
