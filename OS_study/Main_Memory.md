@@ -18,7 +18,7 @@
 
      ​							두 쌍의 register는 실질적인 주소의 범위를 나타내준다.
 
-<img src="Main_Memory.assets/image-20210629193146826.png" alt="image-20210629193146826" style="zoom:50%;" />
+<img src="Main_Memory.assets/image-20210629193146826.png" alt="image-20210629193146826"  />
 
 
 
@@ -62,7 +62,7 @@
 
 - HardWare 장치인데 ` Logical to Physical` 역할을 해주는 장치
 
-<img src="Main_Memory.assets/image-20210629204452496.png" alt="image-20210629204452496" style="zoom:50%;" />
+<img src="Main_Memory.assets/image-20210629204452496.png" alt="image-20210629204452496"  />
 
  
 
@@ -91,6 +91,8 @@
 
 - Main Memory를 가장 효율적으로 할당해야 할 것이다.
   1. First-fit
+     - 100
+     - 15 25 120 110 75
   2. Best-fit
   3. Worst-fit
 
@@ -104,5 +106,20 @@
 
 - Pagination ( Internal Fragmentation )
 
-  
+
+
+
+### 외부단편화란 ?
+
+- 가변적인 메모리의 할당, 해제할 때 발생하는 문제
+
+### 내부단편화란 ?
+
+- Paging 기법을 사용했을 때, 발생하는 문제
+
+
+
+### 내부 단편화를 해결하기 위해 어떤 방법이 있을까 ?
+
+- Page의 크기를 줄이면 어느정도 해결할 순 있지만, 페이지 테이블의 크기가 커지므로 완벽히 해결할 순 없다고 생각.
 
