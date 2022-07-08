@@ -1,4 +1,4 @@
-package Builder;
+package chapter1.item2_Builder;
 
 public class Exercise {
 
