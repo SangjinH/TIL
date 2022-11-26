@@ -6,7 +6,8 @@
  * (Copyright ⓒ2021 Starbucks Coffee Company. All Rights Reserved | Confidential)
  */
 
-package chapter5;
+package chapter5.item26;
 
-public class Generic {
+public class Coin {
+
 }
